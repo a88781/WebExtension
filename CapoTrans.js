@@ -82,7 +82,7 @@ console.log("originalKey:" + originalKey + "_TO_" + targetKey + "_RESULT_" + ori
 }
 
 
-window.addEventListener("load", function () {
+//window.addEventListener("load", function () {
   
   //remove add
 	var adventiseWindow = document.getElementById("viptoneWindow");
@@ -162,4 +162,4 @@ window.addEventListener("load", function () {
 	  });
 	  
 	}, 3000);
-});
+//});
